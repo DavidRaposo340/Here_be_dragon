@@ -1,6 +1,7 @@
 # Here_be_dragon
 
-a) Let's start with the game map. Store in memory and print out (on console) the following map (no colours, textual characters only). Hint: Use a two-dimensional array, initialised on the declaration.![image](https://user-images.githubusercontent.com/78873689/139711592-44b2a762-5331-42b4-b1ae-65f5e95510d5.png)
+a) Let's start with the game map. Store in memory and print out (on console) the following map (no colours, textual characters only). Hint: Use a two-dimensional array, initialised on the declaration.
+![image](https://user-images.githubusercontent.com/78873689/139711668-c0b2c0c3-08ef-4985-86cd-4063dee85247.png)
 
 
 b) The user should be asked to enter single-character commands to move the main character ("hero") in 4 possible directions (up, down, left, right). If there is a wall or door in that direction, the hero remains in the same position. Upon entering each command, the program should update the game and reprint the game map. Hint: For the Java version, use the Scanner class for input. For the C++ version, use cin for input and cout for output.
