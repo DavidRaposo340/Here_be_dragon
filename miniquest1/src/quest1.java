@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class quest1 {
     static int row_E=5, col_E=9 ;  //posiçoes da exit
-    static int row_D=3, col_D=1 ;  //posiçoes do dragon
+    static int row_D=3, col_D=1 ;  //posiçoes do hero
 
 
     public static void exit_position_change(int option) {
