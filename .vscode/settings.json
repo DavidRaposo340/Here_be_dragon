@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "miniquest2/src/dkeep/logic",
+        "miniquest1/src",
+        "miniquest2/src/dkeep/cli"
+    ]
+}
